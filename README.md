@@ -1,2 +1,2 @@
 # tictactoe
-![a](./images/a.jpg)
+![a](./images/a.jpeg)
