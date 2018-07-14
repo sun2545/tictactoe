@@ -1,2 +1,2 @@
 # tictactoe
-![firstPage](/images/a.jpg)
+![firstPage](../images/a.jpg)
